@@ -35,7 +35,7 @@ function InterestDetail() {
       );
     }
     return (
-       <svg width="12" height="12" viewBox="0 0 520 520" onClick={click}>
+      <svg width="12" height="12" viewBox="0 0 520 520" onClick={click}>
       <polygon
         fill="currentColor"
         points="0 71.293 0 122 38.023 123 38.023 398 0 397 0 449.707 91.023 450.413 91.023 72.293"
