@@ -1,0 +1,8 @@
+.interest-detail{
+    width: 500px;
+    max-width: 600px;   
+}
+.editor{
+    box-shadow: 6px 6px black;
+    border:2px solid black; 
+}
