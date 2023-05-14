@@ -6,3 +6,18 @@
     box-shadow: 6px 6px black;
     border:2px solid black; 
 }
+.div-view_mode{
+    display: flex;
+
+}
+.button__svg{
+    background-color: inherit;
+    width: auto;
+    /* border: 1px solid red; */
+    padding: 0.10rem
+}
+.button__svg:hover{
+    background-color: var(--color-neutral-muted);
+    color: var(--color-accent-fg);;
+
+}
